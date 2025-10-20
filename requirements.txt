@@ -1,0 +1,9 @@
+# Core libraries for data science
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Azure ML SDK v2 - for interacting with Azure
+azure-ai-ml
+azure-identity

@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# Local data files (we will upload data directly to Azure)
+data/*.csv
